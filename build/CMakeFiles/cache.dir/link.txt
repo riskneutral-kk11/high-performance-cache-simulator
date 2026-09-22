@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/cache.dir/link.d CMakeFiles/cache.dir/cache.cpp.o -o cache

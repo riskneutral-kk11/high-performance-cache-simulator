@@ -1,0 +1,3 @@
+/Users/kushagra/Desktop/high-performance-cache-sim/build/CMakeFiles/cache.dir
+/Users/kushagra/Desktop/high-performance-cache-sim/build/CMakeFiles/edit_cache.dir
+/Users/kushagra/Desktop/high-performance-cache-sim/build/CMakeFiles/rebuild_cache.dir

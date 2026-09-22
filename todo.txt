@@ -1,0 +1,10 @@
+write read 
+write write 
+write evict 
+write address generator 
+write correctness checker(dinero 4)
+profiling
+deploy 
+write a way for local deployment 
+
+done !!
